@@ -29,7 +29,7 @@ def report():
 
 def send_email():
     username = 'limei.wang@aculearn.com.cn'
-    password = 'ustbS20160721'
+    password = 'xxxxxx'
 
     replyto = '***'
     rcptto = ['junhong.Jiang@aculearn.com.cn', 'jiaqi.chai@aculearn.com.cn']
